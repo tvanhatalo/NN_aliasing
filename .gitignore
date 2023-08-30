@@ -1,0 +1,7 @@
+artefacts/
+__pycache__/
+LTSpice/*.log
+LTSpice/*.raw
+*.wav
+*.wav.reapeaks
+*.pyc 

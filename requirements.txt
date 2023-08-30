@@ -1,0 +1,9 @@
+librosa==0.10.0.post2
+matplotlib==3.7.1
+numpy==1.24.1
+scipy==1.10.1
+SoundFile==0.12.1
+torch==2.0.1+cu117
+torchaudio==2.0.2+cu117
+torchvision==0.15.2+cu117
+tqdm==4.65.0
