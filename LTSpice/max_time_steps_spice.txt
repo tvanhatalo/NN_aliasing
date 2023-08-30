@@ -1,0 +1,5 @@
+SR = 22050    =>  max time step  ~  0.000045  -                 - no oversampling
+SR = 44100    =>  max time step  ~  0.000023  - no oversampling - x2
+SR = 352800   =>  max time step  ~ 0.0000028  - x8              - x16
+SR = 705600   =>  max time step  ~ 0.0000014  - x16             - x32
+SR = 5644800  =>  max time step ~ 0.00000018  - x128            - x256
